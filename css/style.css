@@ -1,0 +1,16 @@
+@import url("bootstrap.css");
+body{
+    text-align: center;
+    font-size: 18px;
+    background-color: white;
+}
+h1{
+    color: blue;
+}
+input{
+    margin: 1%;
+}
+#Login{
+    border: 1px solid black; width: 40%; 
+    border-radius: 3%;
+}
